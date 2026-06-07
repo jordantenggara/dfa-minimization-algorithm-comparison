@@ -15,7 +15,7 @@ The project was created for the **Analisis dan Strategi Algoritma** course assig
 ## Author
 
 **Jordan Tenggara**  
-**24060124120044**  
+**[redacted]**  
 Department of Informatics  
 Universitas Diponegoro
 
