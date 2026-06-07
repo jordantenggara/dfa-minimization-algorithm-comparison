@@ -39,7 +39,6 @@ dfa-minimization-algorithm-comparison/
 │
 ├── README.md
 ├── requirements.txt
-├── .gitignore
 │
 ├── notebooks/
 │   └── dfa_minimization_algorithm_comparison.ipynb
